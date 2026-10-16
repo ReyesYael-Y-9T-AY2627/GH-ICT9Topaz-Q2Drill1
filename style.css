@@ -1,0 +1,11 @@
+body{
+    background-image: url(gradient3.jpg);
+}
+
+.container{
+    box-shadow: 1px 10px 15px 3px rgba(0,0,0,0.81);
+-webkit-box-shadow: 1px 10px 15px 3px rgba(0,0,0,0.81);
+-moz-box-shadow: 1px 10px 15px 3px rgba(0,0,0,0.81);
+}
+
+
